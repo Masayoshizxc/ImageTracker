@@ -107,11 +107,13 @@ class ViewController: UIViewController, ARSCNViewDelegate {
     }
     let videoPlayer: AVPlayer = {
         // Load the video
-        guard let url = Bundle.main.url(forResource: "itachiamv", withExtension: "mp4") else {
+        guard let url = Bundle.main.url(forResource: "kg", withExtension: "mp4") else {
             return AVPlayer()
         }
      
         return AVPlayer(url: url)
     }()
+    
+    
     
 }

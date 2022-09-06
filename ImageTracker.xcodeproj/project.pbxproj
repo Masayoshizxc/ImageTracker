@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		507738465062118D06CA32B2 /* Pods_ImageTracker.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B37423F67481DF1962726B6B /* Pods_ImageTracker.framework */; };
+		AE76685828C5DF5F00B9C520 /* kg.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AE76685728C5DF5F00B9C520 /* kg.mp4 */; };
 		AE77E67828C1342100F9A440 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE77E67728C1342100F9A440 /* AppDelegate.swift */; };
 		AE77E67A28C1342100F9A440 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = AE77E67928C1342100F9A440 /* art.scnassets */; };
 		AE77E67C28C1342100F9A440 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE77E67B28C1342100F9A440 /* ViewController.swift */; };
@@ -21,7 +22,8 @@
 /* Begin PBXFileReference section */
 		632E755EDAB4003506F7B8D1 /* Pods-ImageTracker.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ImageTracker.release.xcconfig"; path = "Target Support Files/Pods-ImageTracker/Pods-ImageTracker.release.xcconfig"; sourceTree = "<group>"; };
 		95929CCB3CBE6428F1DE9E14 /* Pods-ImageTracker.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ImageTracker.debug.xcconfig"; path = "Target Support Files/Pods-ImageTracker/Pods-ImageTracker.debug.xcconfig"; sourceTree = "<group>"; };
-		AE3F77A928C484B00069BB60 /* IMG_0645.HEIC */ = {isa = PBXFileReference; lastKnownFileType = file; name = IMG_0645.HEIC; path = ../../../../Downloads/IMG_0645.HEIC; sourceTree = "<group>"; };
+		AE52C39428C5CD160040CB3A /* forTrack1.heic */ = {isa = PBXFileReference; lastKnownFileType = file; name = forTrack1.heic; path = ../../../../Downloads/forTrack1.heic; sourceTree = "<group>"; };
+		AE76685728C5DF5F00B9C520 /* kg.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = kg.mp4; path = ../../../../../Downloads/kg.mp4; sourceTree = "<group>"; };
 		AE77E67428C1342100F9A440 /* ImageTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ImageTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AE77E67728C1342100F9A440 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AE77E67928C1342100F9A440 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -90,7 +92,7 @@
 				AE9A8EBF28C3A8A500BD5724 /* HomeViewController.swift */,
 				AE77E67D28C1342100F9A440 /* Main.storyboard */,
 				AE77E68028C1342100F9A440 /* Assets.xcassets */,
-				AE3F77A928C484B00069BB60 /* IMG_0645.HEIC */,
+				AE52C39428C5CD160040CB3A /* forTrack1.heic */,
 				AE77E68C28C134AB00F9A440 /* Resources */,
 				AE77E68228C1342100F9A440 /* LaunchScreen.storyboard */,
 			);
@@ -100,6 +102,7 @@
 		AE77E68C28C134AB00F9A440 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				AE76685728C5DF5F00B9C520 /* kg.mp4 */,
 				AE77E68A28C134A300F9A440 /* itachiamv.mp4 */,
 			);
 			path = Resources;
@@ -166,6 +169,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AE77E67A28C1342100F9A440 /* art.scnassets in Resources */,
+				AE76685828C5DF5F00B9C520 /* kg.mp4 in Resources */,
 				AE77E68428C1342100F9A440 /* LaunchScreen.storyboard in Resources */,
 				AE77E68B28C134A300F9A440 /* itachiamv.mp4 in Resources */,
 				AE77E68128C1342100F9A440 /* Assets.xcassets in Resources */,
